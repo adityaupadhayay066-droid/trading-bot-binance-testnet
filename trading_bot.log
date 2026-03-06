@@ -1,0 +1,26 @@
+2026-03-06 15:12:13,654 - INFO - Order placed successfully: {}
+2026-03-06 15:12:13,654 - ERROR - Error placing order: 'orderId'
+2026-03-06 15:15:04,032 - INFO - Order placed successfully: {}
+2026-03-06 15:15:04,034 - ERROR - Error placing order: 'orderId'
+2026-03-06 15:16:58,215 - INFO - Order placed successfully: {}
+2026-03-06 15:16:58,217 - ERROR - Error placing order: 'orderId'
+2026-03-06 18:46:27,101 - INFO - Order placed successfully: {}
+2026-03-06 18:46:27,104 - ERROR - Error placing order: 'orderId'
+2026-03-06 18:54:30,271 - INFO - Order placed successfully: {}
+2026-03-06 18:54:30,272 - ERROR - Error placing order: 'orderId'
+2026-03-06 18:55:50,860 - INFO - Order placed successfully: {}
+2026-03-06 18:56:25,367 - INFO - Order placed successfully: {}
+2026-03-06 18:57:41,760 - ERROR - Order ID not found in response: {}
+2026-03-06 18:57:41,760 - INFO - Order placed successfully: {}
+2026-03-06 18:58:57,630 - ERROR - Order ID not found in response: {}
+2026-03-06 18:58:57,630 - INFO - Order placed successfully: {}
+2026-03-06 19:00:03,566 - INFO - Order placed successfully: {}
+2026-03-06 19:00:03,569 - ERROR - Error placing order: 'orderId'
+2026-03-06 19:02:15,888 - INFO - Order placed successfully: {}
+2026-03-06 19:02:15,888 - ERROR - Error placing order: 'orderId'
+2026-03-06 19:05:29,535 - INFO - Order placed successfully: {}
+2026-03-06 19:05:29,553 - ERROR - Error placing order: 'status'
+2026-03-06 19:07:09,672 - ERROR - Error placing order: cannot access local variable 'order' where it is not associated with a value
+2026-03-06 19:09:03,748 - INFO - Order placed successfully: {}
+2026-03-06 19:15:45,449 - INFO - Order placed successfully: {}
+2026-03-06 19:32:53,214 - INFO - Order placed successfully: {}

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Binance Futures Testnet Trading Bot
 
 ## Overview
@@ -141,3 +142,6 @@ This helps track trading activity and debug issues.
 ## Author
 
 Aditya Upadhayay
+=======
+# trading-bot-binance-testnet
+>>>>>>> 68602613d32de8387fe6bdb2e08d7e2cff975ba4

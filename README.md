@@ -144,4 +144,4 @@ This helps track trading activity and debug issues.
 Aditya Upadhayay
 =======
 # trading-bot-binance-testnet
->>>>>>> 68602613d32de8387fe6bdb2e08d7e2cff975ba4
+
